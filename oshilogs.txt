@@ -12,114 +12,57 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nafasya =====
-[1]Nafasya     |07:45:31 | 11-10-2026| login OK @nafasyalarasati | score=920 rank=6356
-[1]Nafasya     |07:45:31 | 11-10-2026| serverTime=2026-10-11T07:45:31.000Z local=2026-10-11T07:45:31.761Z
+[1]Nafasya     |12:44:57 | 12-10-2026| login OK @nafasyalarasati | score=990 rank=6193
+[1]Nafasya     |12:44:57 | 12-10-2026| serverTime=2026-10-12T12:44:57.000Z local=2026-10-12T12:44:57.744Z
 --> [1]Nafasya menjalankan: Claim Daily
-[1]Nafasya     |07:45:32 | 11-10-2026| daily: sudah klaim (already=true) score=920
---> [1]Nafasya menjalankan: Auto All Tasks (3 pending)
-[1]Nafasya     |07:45:35 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109188299185513397
-[1]Nafasya     |07:45:35 | 11-10-2026| delay 10s...
-[1]Nafasya     |07:45:50 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109188427175921693
-[1]Nafasya     |07:45:50 | 11-10-2026| delay 10s...
-[1]Nafasya     |07:46:04 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109188448033612972
-[1]Nafasya     |07:46:04 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nafasya     |07:46:05 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nafasyalarasati/status/2109188402840965114
+[1]Nafasya     |12:44:58 | 12-10-2026| daily: OK +10 poin score=1000
+--> [1]Nafasya menjalankan: Auto All Tasks (9 pending)
+[1]Nafasya     |12:45:00 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109625803245462476
+[1]Nafasya     |12:45:00 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:45:13 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626009157746522
+[1]Nafasya     |12:45:13 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:45:25 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626095498354577
+[1]Nafasya     |12:45:25 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:45:37 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626086871230421
+[1]Nafasya     |12:45:37 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:45:49 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nafasya     |12:45:49 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:46:01 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626252355662195
+[1]Nafasya     |12:46:01 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:46:14 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626160250963074
+[1]Nafasya     |12:46:14 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:46:27 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nafasyalarasati/status/2109626242937527112
+[1]Nafasya     |12:46:27 | 12-10-2026| delay 10s...
+[1]Nafasya     |12:46:40 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nafasya     |12:46:40 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nafasya     |12:46:41 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nafasyalarasati/status/2109626282572808623
 --> [1]Nafasya menjalankan: Watch Anime
-[1]Nafasya     |07:46:07 | 11-10-2026| watch: 2 video belum completed: oshi-theme-mv,oshi-first-journey
-[1]Nafasya     |07:46:07 | 11-10-2026| watch [1/2] farming oshi-theme-mv...
-[1]Nafasya     |07:46:08 | 11-10-2026| watch oshi-theme-mv: mulai dari 0 (record 95.2s diabaikan)
-[1]Nafasya     |07:46:10 | 11-10-2026| watch oshi-theme-mv: 89% (95.20/106.00s)
-[1]Nafasya     |07:46:17 | 11-10-2026| watch oshi-theme-mv: 89% (95.34/106.00s)
-[1]Nafasya     |07:46:24 | 11-10-2026| watch oshi-theme-mv: 90% (95.56/106.00s)
-[1]Nafasya     |07:46:24 | 11-10-2026| watch oshi-theme-mv: COMPLETED (95.56/106.00s)
-[1]Nafasya     |07:46:29 | 11-10-2026| watch [2/2] farming oshi-first-journey...
-[1]Nafasya     |07:46:31 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Nafasya     |07:46:38 | 11-10-2026| watch oshi-first-journey: 6% (6.04/87.00s)
-[1]Nafasya     |07:46:44 | 11-10-2026| watch oshi-first-journey: 13% (11.83/87.00s)
-[1]Nafasya     |07:46:51 | 11-10-2026| watch oshi-first-journey: 20% (17.49/87.00s)
-[1]Nafasya     |07:46:58 | 11-10-2026| watch oshi-first-journey: 27% (23.65/87.00s)
-[1]Nafasya     |07:47:07 | 11-10-2026| watch oshi-first-journey: 34% (30.11/87.00s)
-[1]Nafasya     |07:47:14 | 11-10-2026| watch oshi-first-journey: 41% (36.51/87.00s)
-[1]Nafasya     |07:47:23 | 11-10-2026| watch oshi-first-journey: 48% (42.20/87.00s)
-[1]Nafasya     |07:47:31 | 11-10-2026| watch oshi-first-journey: 58% (50.62/87.00s)
-[1]Nafasya     |07:47:37 | 11-10-2026| watch oshi-first-journey: 65% (57.26/87.00s)
-[1]Nafasya     |07:47:44 | 11-10-2026| watch oshi-first-journey: 72% (63.22/87.00s)
-[1]Nafasya     |07:47:50 | 11-10-2026| watch oshi-first-journey: 79% (68.89/87.00s)
-[1]Nafasya     |07:47:59 | 11-10-2026| watch oshi-first-journey: 85% (74.48/87.00s)
-[1]Nafasya     |07:48:05 | 11-10-2026| watch oshi-first-journey: 92% (80.83/87.00s)
-[1]Nafasya     |07:48:05 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.83/87.00s)
+[1]Nafasya     |12:46:42 | 12-10-2026| watch: semua video sudah completed
 --> [1]Nafasya menjalankan: Read Article
-[1]Nafasya     |07:48:06 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nafasya     |07:48:07 | 11-10-2026| mint eligibility: {"userId":"1748155289524903936","youtube":{"url":"https://www.youtube.com/@nafasyalarasati","status":"submitted","revision":"9f9b316d-7c53-47a9-b088-bf291a5b50c0","submittedAt":1791673841,"reviewedAt"
-[1]Nafasya     |07:48:07 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Nafasya     |12:46:44 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nafasya     |12:46:44 | 12-10-2026| mint eligibility: {"userId":"1748155289524903936","youtube":{"url":"https://www.youtube.com/@nafasyalarasati","status":"submitted","revision":"9f9b316d-7c53-47a9-b088-bf291a5b50c0","submittedAt":1791673841,"reviewedAt"
+[1]Nafasya     |12:46:44 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Nafasya menjalankan: Quiz Anime
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Nafasya     |07:48:08 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Nafasya     |12:46:45 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Nafasya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nafasya     |07:48:11 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Nafasya     |07:48:23 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0009/269s)
-[1]Nafasya     |07:48:35 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.811700000000002/269s)
-[1]Nafasya     |07:48:47 | 11-10-2026| music "せーので、飛ぼう！": 11% (30.3966/269s)
-[1]Nafasya     |07:48:59 | 11-10-2026| music "せーので、飛ぼう！": 15% (41.5404/269s)
-[1]Nafasya     |07:49:10 | 11-10-2026| music "せーので、飛ぼう！": 19% (52.3602/269s)
-[1]Nafasya     |07:49:22 | 11-10-2026| music "せーので、飛ぼう！": 23% (62.3241/269s)
-[1]Nafasya     |07:49:33 | 11-10-2026| music "せーので、飛ぼう！": 27% (72.783/269s)
-[1]Nafasya     |07:49:44 | 11-10-2026| music "せーので、飛ぼう！": 30% (82.7676/269s)
-[1]Nafasya     |07:50:00 | 11-10-2026| music "せーので、飛ぼう！": 34% (92.7981/269s)
-[1]Nafasya     |07:50:11 | 11-10-2026| music "せーので、飛ぼう！": 39% (106.4565/269s)
-[1]Nafasya     |07:50:22 | 11-10-2026| music "せーので、飛ぼう！": 43% (116.43390000000001/269s)
-[1]Nafasya     |07:50:35 | 11-10-2026| music "せーので、飛ぼう！": 47% (126.81720000000001/269s)
-[1]Nafasya     |07:50:46 | 11-10-2026| music "せーので、飛ぼう！": 51% (137.9538/269s)
-[1]Nafasya     |07:50:57 | 11-10-2026| music "せーので、飛ぼう！": 55% (148.3308/269s)
-[1]Nafasya     |07:51:08 | 11-10-2026| music "せーので、飛ぼう！": 58% (158.5548/269s)
-[1]Nafasya     |07:51:21 | 11-10-2026| music "せーので、飛ぼう！": 62% (168.4647/269s)
-[1]Nafasya     |07:51:33 | 11-10-2026| music "せーので、飛ぼう！": 66% (179.9847/269s)
-[1]Nafasya     |07:51:46 | 11-10-2026| music "せーので、飛ぼう！": 70% (190.9557/269s)
-[1]Nafasya     |07:51:59 | 11-10-2026| music "せーので、飛ぼう！": 75% (202.2012/269s)
-[1]Nafasya     |07:52:12 | 11-10-2026| music "せーので、飛ぼう！": 79% (214.3476/269s)
-[1]Nafasya     |07:52:23 | 11-10-2026| music "せーので、飛ぼう！": 83% (225.3834/269s)
-[1]Nafasya     |07:52:23 | 11-10-2026| music "せーので、飛ぼう！": selesai 225.3834s
-[1]Nafasya     |07:52:26 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Nafasya     |07:52:38 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0036/276s)
-[1]Nafasya     |07:52:50 | 11-10-2026| music "ON CHAIN NEXUS": 7% (20.493000000000002/276s)
-[1]Nafasya     |07:53:02 | 11-10-2026| music "ON CHAIN NEXUS": 11% (31.255200000000002/276s)
-[1]Nafasya     |07:53:14 | 11-10-2026| music "ON CHAIN NEXUS": 15% (41.463/276s)
-[1]Nafasya     |07:53:26 | 11-10-2026| music "ON CHAIN NEXUS": 19% (52.9794/276s)
-[1]Nafasya     |07:53:37 | 11-10-2026| music "ON CHAIN NEXUS": 22% (63.023399999999995/276s)
-[1]Nafasya     |07:53:49 | 11-10-2026| music "ON CHAIN NEXUS": 26% (73.377/276s)
-[1]Nafasya     |07:54:01 | 11-10-2026| music "ON CHAIN NEXUS": 30% (84.3453/276s)
-[1]Nafasya     |07:54:13 | 11-10-2026| music "ON CHAIN NEXUS": 34% (94.6764/276s)
-[1]Nafasya     |07:54:24 | 11-10-2026| music "ON CHAIN NEXUS": 38% (105.8067/276s)
-[1]Nafasya     |07:54:35 | 11-10-2026| music "ON CHAIN NEXUS": 41% (115.8246/276s)
-[1]Nafasya     |07:54:46 | 11-10-2026| music "ON CHAIN NEXUS": 45% (125.7651/276s)
-[1]Nafasya     |07:54:58 | 11-10-2026| music "ON CHAIN NEXUS": 49% (135.7002/276s)
-[1]Nafasya     |07:55:09 | 11-10-2026| music "ON CHAIN NEXUS": 52% (146.2554/276s)
-[1]Nafasya     |07:55:20 | 11-10-2026| music "ON CHAIN NEXUS": 56% (156.1311/276s)
-[1]Nafasya     |07:55:32 | 11-10-2026| music "ON CHAIN NEXUS": 60% (166.0815/276s)
-[1]Nafasya     |07:55:43 | 11-10-2026| music "ON CHAIN NEXUS": 63% (176.6223/276s)
-[1]Nafasya     |07:55:54 | 11-10-2026| music "ON CHAIN NEXUS": 67% (186.6645/276s)
-[1]Nafasya     |07:56:05 | 11-10-2026| music "ON CHAIN NEXUS": 71% (196.5321/276s)
-[1]Nafasya     |07:56:17 | 11-10-2026| music "ON CHAIN NEXUS": 74% (206.78580000000002/276s)
-[1]Nafasya     |07:56:28 | 11-10-2026| music "ON CHAIN NEXUS": 78% (216.79470000000003/276s)
-[1]Nafasya     |07:56:39 | 11-10-2026| music "ON CHAIN NEXUS": 82% (227.11770000000004/276s)
-[1]Nafasya     |07:56:40 | 11-10-2026| music "ON CHAIN NEXUS": selesai 227.11770000000004s
-[1]Nafasya     |07:56:42 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nafasya     |07:56:43 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Nafasya     |07:56:48 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Nafasya     |07:56:52 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Nafasya     |12:46:47 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nafasya     |12:46:48 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nafasya     |12:46:48 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nafasya     |12:46:48 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nafasya menjalankan: Claim Missions
-[1]Nafasya     |07:56:56 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Nafasya     |07:56:56 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nafasya     |07:56:56 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nafasya     |12:46:48 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nafasya     |12:46:48 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nafasya     |12:46:48 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nafasya menjalankan: Check Eligibility
 
 --- eligibility [1]Nafasya ---
-  @nafasyalarasati | score=920 rank=6356
-  tasks    [###################-] 73/76
+  @nafasyalarasati | score=990 rank=6193
+  tasks    [##################--] 71/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -130,251 +73,33 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nafasya menjalankan: Read Manga
-[1]Nafasya     |07:57:00 | 11-10-2026| manga: 13/13 chapter belum completed
-[1]Nafasya     |07:57:00 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Nafasya     |07:57:07 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Nafasya     |07:57:12 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 6s
-[1]Nafasya     |07:57:17 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 11s
-[1]Nafasya     |07:57:21 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 16s
-[1]Nafasya     |07:57:26 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 20s
-[1]Nafasya     |07:57:31 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 25s
-[1]Nafasya     |07:57:37 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 30s
-[1]Nafasya     |07:57:42 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 36s
-[1]Nafasya     |07:57:46 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 41s
-[1]Nafasya     |07:57:51 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 45s
-[1]Nafasya     |07:57:56 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 50s
-[1]Nafasya     |07:58:01 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 55s
-[1]Nafasya     |07:58:05 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 60s
-[1]Nafasya     |07:58:10 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 64s
-[1]Nafasya     |07:58:15 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 69s
-[1]Nafasya     |07:58:21 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 74s
-[1]Nafasya     |07:58:25 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 80s
-[1]Nafasya     |07:58:30 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 84s
-[1]Nafasya     |07:58:35 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 89s
-[1]Nafasya     |07:58:40 | 11-10-2026| manga ch1 (1): COMPLETED
-[1]Nafasya     |07:58:43 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Nafasya     |07:58:50 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Nafasya     |07:58:55 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Nafasya     |07:59:00 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 10s
-[1]Nafasya     |07:59:05 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 15s
-[1]Nafasya     |07:59:10 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 20s
-[1]Nafasya     |07:59:14 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 25s
-[1]Nafasya     |07:59:20 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 29s
-[1]Nafasya     |07:59:25 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 35s
-[1]Nafasya     |07:59:32 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 40s
-[1]Nafasya     |07:59:37 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 47s
-[1]Nafasya     |07:59:41 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 52s
-[1]Nafasya     |07:59:46 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 56s
-[1]Nafasya     |07:59:52 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 61s
-[1]Nafasya     |07:59:57 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 67s
-[1]Nafasya     |08:00:02 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 72s
-[1]Nafasya     |08:00:07 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 77s
-[1]Nafasya     |08:00:12 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 82s
-[1]Nafasya     |08:00:19 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 87s
-[1]Nafasya     |08:00:23 | 11-10-2026| manga ch2 (450001): COMPLETED
-[1]Nafasya     |08:00:26 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Nafasya     |08:00:33 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Nafasya     |08:00:37 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 6s
-[1]Nafasya     |08:00:42 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
-[1]Nafasya     |08:00:48 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
-[1]Nafasya     |08:00:53 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 21s
-[1]Nafasya     |08:01:00 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 26s
-[1]Nafasya     |08:01:06 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 33s
-[1]Nafasya     |08:01:10 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 38s
-[1]Nafasya     |08:01:16 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 43s
-[1]Nafasya     |08:01:21 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 49s
-[1]Nafasya     |08:01:25 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 54s
-[1]Nafasya     |08:01:30 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 58s
-[1]Nafasya     |08:01:35 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 63s
-[1]Nafasya     |08:01:39 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 67s
-[1]Nafasya     |08:01:44 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 72s
-[1]Nafasya     |08:01:49 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 77s
-[1]Nafasya     |08:01:55 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 82s
-[1]Nafasya     |08:01:59 | 11-10-2026| manga ch3 (2160001): COMPLETED
-[1]Nafasya     |08:02:02 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Nafasya     |08:02:12 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Nafasya     |08:02:18 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 8s
-[1]Nafasya     |08:02:24 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 14s
-[1]Nafasya     |08:02:28 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 19s
-[1]Nafasya     |08:02:33 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 24s
-[1]Nafasya     |08:02:38 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 29s
-[1]Nafasya     |08:02:44 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 34s
-[1]Nafasya     |08:02:48 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 39s
-[1]Nafasya     |08:02:53 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 44s
-[1]Nafasya     |08:02:59 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 49s
-[1]Nafasya     |08:03:04 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 55s
-[1]Nafasya     |08:03:08 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 60s
-[1]Nafasya     |08:03:16 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 64s
-[1]Nafasya     |08:03:24 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 72s
-[1]Nafasya     |08:03:28 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 80s
-[1]Nafasya     |08:03:33 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 84s
-[1]Nafasya     |08:03:37 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 89s
-[1]Nafasya     |08:03:43 | 11-10-2026| manga ch4 (2400001): COMPLETED
-[1]Nafasya     |08:03:46 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Nafasya     |08:03:52 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Nafasya     |08:03:56 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Nafasya     |08:04:01 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
-[1]Nafasya     |08:04:06 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Nafasya     |08:04:11 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
-[1]Nafasya     |08:04:16 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
-[1]Nafasya     |08:04:21 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
-[1]Nafasya     |08:04:25 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 34s
-[1]Nafasya     |08:04:31 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 39s
-[1]Nafasya     |08:04:36 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 44s
-[1]Nafasya     |08:04:40 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 49s
-[1]Nafasya     |08:04:46 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 54s
-[1]Nafasya     |08:04:51 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 59s
-[1]Nafasya     |08:04:56 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 65s
-[1]Nafasya     |08:05:01 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 69s
-[1]Nafasya     |08:05:06 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 75s
-[1]Nafasya     |08:05:12 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 80s
-[1]Nafasya     |08:05:16 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 85s
-[1]Nafasya     |08:05:21 | 11-10-2026| manga ch5 (2490001): COMPLETED
-[1]Nafasya     |08:05:24 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Nafasya     |08:05:34 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Nafasya     |08:05:39 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 7s
-[1]Nafasya     |08:05:47 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 12s
-[1]Nafasya     |08:05:54 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 20s
-[1]Nafasya     |08:05:59 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 27s
-[1]Nafasya     |08:06:08 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 32s
-[1]Nafasya     |08:06:16 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 41s
-[1]Nafasya     |08:06:21 | 11-10-2026| manga ch6: page 8 GAGAL http=503
-[1]Nafasya     |08:06:24 | 11-10-2026| manga ch6: page 9 GAGAL http=503
-[1]Nafasya     |08:06:29 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 51s
-[1]Nafasya     |08:06:34 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 56s
-[1]Nafasya     |08:06:38 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 60s
-[1]Nafasya     |08:06:44 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 65s
-[1]Nafasya     |08:06:50 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 71s
-[1]Nafasya     |08:06:55 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 77s
-[1]Nafasya     |08:07:00 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 82s
-[1]Nafasya     |08:07:06 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 87s
-[1]Nafasya     |08:07:37 | 11-10-2026| manga ch6 (2610001): belum completed
-[1]Nafasya     |08:07:40 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Nafasya     |08:07:48 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Nafasya     |08:07:53 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 6s
-[1]Nafasya     |08:07:58 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 11s
-[1]Nafasya     |08:08:03 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 16s
-[1]Nafasya     |08:08:09 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 21s
-[1]Nafasya     |08:08:14 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 27s
-[1]Nafasya     |08:08:21 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 32s
-[1]Nafasya     |08:08:27 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 39s
-[1]Nafasya     |08:08:35 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 46s
-[1]Nafasya     |08:08:41 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 53s
-[1]Nafasya     |08:08:46 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 59s
-[1]Nafasya     |08:08:51 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 64s
-[1]Nafasya     |08:08:58 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 69s
-[1]Nafasya     |08:09:12 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 76s
-[1]Nafasya     |08:09:17 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 86s
-[1]Nafasya     |08:09:22 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 91s
-[1]Nafasya     |08:09:27 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 96s
-[1]Nafasya     |08:09:31 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 100s
-[1]Nafasya     |08:09:35 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 104s
-[1]Nafasya     |08:09:40 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 109s
-[1]Nafasya     |08:09:45 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 113s
-[1]Nafasya     |08:09:50 | 11-10-2026| manga ch1 (180003): COMPLETED
-[1]Nafasya     |08:09:53 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Nafasya     |08:09:58 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Nafasya     |08:10:04 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
-[1]Nafasya     |08:10:08 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
-[1]Nafasya     |08:10:12 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
-[1]Nafasya     |08:10:17 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
-[1]Nafasya     |08:10:22 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
-[1]Nafasya     |08:10:27 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
-[1]Nafasya     |08:10:32 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
-[1]Nafasya     |08:10:36 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 38s
-[1]Nafasya     |08:10:41 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 42s
-[1]Nafasya     |08:10:46 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 47s
-[1]Nafasya     |08:10:51 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 52s
-[1]Nafasya     |08:10:56 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 57s
-[1]Nafasya     |08:11:01 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 62s
-[1]Nafasya     |08:11:05 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 67s
-[1]Nafasya     |08:11:10 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 71s
-[1]Nafasya     |08:11:14 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 76s
-[1]Nafasya     |08:11:19 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 80s
-[1]Nafasya     |08:11:24 | 11-10-2026| manga ch2 (990005): COMPLETED
-[1]Nafasya     |08:11:27 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Nafasya     |08:11:33 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Nafasya     |08:11:38 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Nafasya     |08:11:43 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 11s
-[1]Nafasya     |08:11:47 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 16s
-[1]Nafasya     |08:11:52 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 20s
-[1]Nafasya     |08:11:56 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
-[1]Nafasya     |08:12:00 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 28s
-[1]Nafasya     |08:12:06 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 33s
-[1]Nafasya     |08:12:12 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 38s
-[1]Nafasya     |08:12:18 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 44s
-[1]Nafasya     |08:12:22 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 50s
-[1]Nafasya     |08:12:27 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 55s
-[1]Nafasya     |08:12:33 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 59s
-[1]Nafasya     |08:12:38 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 65s
-[1]Nafasya     |08:12:42 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 70s
-[1]Nafasya     |08:12:46 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 74s
-[1]Nafasya     |08:12:52 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 79s
-[1]Nafasya     |08:12:57 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 84s
-[1]Nafasya     |08:13:01 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 89s
-[1]Nafasya     |08:13:05 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 93s
-[1]Nafasya     |08:13:10 | 11-10-2026| manga ch3 (1980001): COMPLETED
-[1]Nafasya     |08:13:13 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Nafasya     |08:13:18 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Nafasya     |08:13:22 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
-[1]Nafasya     |08:13:27 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Nafasya     |08:13:31 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Nafasya     |08:13:37 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
-[1]Nafasya     |08:13:42 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
-[1]Nafasya     |08:13:47 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
-[1]Nafasya     |08:13:52 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 33s
-[1]Nafasya     |08:13:56 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 38s
-[1]Nafasya     |08:14:00 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Nafasya     |08:14:03 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Nafasya     |08:14:09 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Nafasya     |08:14:13 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Nafasya     |08:14:18 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Nafasya     |08:14:22 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Nafasya     |08:14:26 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
-[1]Nafasya     |08:14:31 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
-[1]Nafasya     |08:14:37 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 27s
-[1]Nafasya     |08:14:41 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 33s
-[1]Nafasya     |08:14:46 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
-[1]Nafasya     |08:14:51 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
-[1]Nafasya     |08:14:55 | 11-10-2026| manga ch1 (2070001): COMPLETED
-[1]Nafasya     |08:14:58 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Nafasya     |08:15:04 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Nafasya     |08:15:08 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
-[1]Nafasya     |08:15:12 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Nafasya     |08:15:17 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
-[1]Nafasya     |08:15:21 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 17s
-[1]Nafasya     |08:15:25 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 22s
-[1]Nafasya     |08:15:30 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 26s
-[1]Nafasya     |08:15:35 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 31s
-[1]Nafasya     |08:15:39 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 36s
-[1]Nafasya     |08:15:44 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 40s
-[1]Nafasya     |08:15:51 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 45s
-[1]Nafasya     |08:15:55 | 11-10-2026| manga ch2 (2520001): COMPLETED
-[1]Nafasya     |08:15:58 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Nafasya     |08:16:07 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Nafasya     |08:16:13 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 6s
-[1]Nafasya     |08:16:17 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 12s
-[1]Nafasya     |08:16:23 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 16s
-[1]Nafasya     |08:16:29 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 22s
-[1]Nafasya     |08:16:33 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 28s
-[1]Nafasya     |08:16:38 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 33s
-[1]Nafasya     |08:16:42 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 37s
-[1]Nafasya     |08:16:47 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 41s
-[1]Nafasya     |08:16:52 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 46s
-[1]Nafasya     |08:16:56 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 51s
-[1]Nafasya     |08:17:01 | 11-10-2026| manga ch3 (2550001): COMPLETED
+[1]Nafasya     |12:46:52 | 12-10-2026| manga: 1/13 chapter belum completed
+[1]Nafasya     |12:46:52 | 12-10-2026| manga [1/1] membaca ch.6 (17 hal)...
+[1]Nafasya     |12:46:58 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 119s
+[1]Nafasya     |12:47:03 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 124s
+[1]Nafasya     |12:47:07 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 128s
+[1]Nafasya     |12:47:12 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 133s
+[1]Nafasya     |12:47:16 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 137s
+[1]Nafasya     |12:47:21 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 142s
+[1]Nafasya     |12:47:25 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 146s
+[1]Nafasya     |12:47:30 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 151s
+[1]Nafasya     |12:47:34 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 155s
+[1]Nafasya     |12:47:39 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 160s
+[1]Nafasya     |12:47:44 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 165s
+[1]Nafasya     |12:47:49 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 170s
+[1]Nafasya     |12:47:54 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 174s
+[1]Nafasya     |12:48:01 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 179s
+[1]Nafasya     |12:48:05 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 186s
+[1]Nafasya     |12:48:10 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 191s
+[1]Nafasya     |12:48:16 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 196s
+[1]Nafasya     |12:48:16 | 12-10-2026| manga ch6 (2610001): COMPLETED
 --> [1]Nafasya menjalankan: Get Gift
-[1]Nafasya     |08:17:04 | 11-10-2026| gift: 3/3 belum diterima
-[1]Nafasya     |08:17:05 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Nafasya     |08:17:09 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Nafasya     |08:17:12 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Nafasya     |12:48:19 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Nafasya menjalankan: Setup Profile
-[1]Nafasya     |08:17:15 | 11-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Nafasya     |08:17:16 | 11-10-2026| profile: OK bio="https://x.com/nafasyalarasati" fav=oshi awarded=true +10pt
+[1]Nafasya     |12:48:20 | 12-10-2026| profile: bio="https://x.com/nafasyalarasati" fav=oshi rewardAt=1791706635
+[1]Nafasya     |12:48:20 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nafasya menjalankan: Bind Wallet
-[1]Nafasya     |08:17:16 | 11-10-2026| wallet: derivasi dari privateKeySolana -> B9bws1vvTN2F8JShLgci3aYYey46uH9Dsr6dFQgmTj9B (cek cocok dengan wallet kamu!)
-[1]Nafasya     |08:17:17 | 11-10-2026| wallet: /api/wallet OK (solana)
-[1]Nafasya     |08:17:17 | 11-10-2026| wallet: /api/sol-address OK
+[1]Nafasya     |12:48:21 | 12-10-2026| wallet: sudah terikat B9bws1vvTN... (solana)
 
 == RINGKASAN ==
-- Nafasya: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 2 trek ~452.50110000000006s | artikel 0 dibaca | manga 12/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Nafasya: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
