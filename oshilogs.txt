@@ -12,86 +12,140 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nafasya =====
-[1]Nafasya     |08:39:15 | 19-10-2026| login OK @nafasyalarasati | score=1450 rank=4718
-[1]Nafasya     |08:39:15 | 19-10-2026| serverTime=2026-10-19T08:39:15.000Z local=2026-10-19T08:39:15.981Z
+[1]Nafasya     |08:20:33 | 20-10-2026| login OK @nafasyalarasati | score=1560 rank=4469
+[1]Nafasya     |08:20:33 | 20-10-2026| serverTime=2026-10-20T08:20:33.000Z local=2026-10-20T08:20:33.495Z
 --> [1]Nafasya menjalankan: Claim Daily
-[1]Nafasya     |08:39:17 | 19-10-2026| daily: OK +10 poin score=1460
---> [1]Nafasya menjalankan: Auto All Tasks (10 pending)
-[1]Nafasya     |08:39:19 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112100870734605091
-[1]Nafasya     |08:39:19 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:39:31 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112100918911481067
-[1]Nafasya     |08:39:31 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:39:43 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101087145321016
-[1]Nafasya     |08:39:43 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:39:55 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112100810288130511
-[1]Nafasya     |08:39:55 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:40:08 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112100894491813191
-[1]Nafasya     |08:40:08 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:40:20 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101101300964447
-[1]Nafasya     |08:40:20 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:40:32 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101026267423130
-[1]Nafasya     |08:40:32 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:40:45 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101217685511150
-[1]Nafasya     |08:40:45 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:40:57 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101068390915123
-[1]Nafasya     |08:40:57 | 19-10-2026| delay 10s...
-[1]Nafasya     |08:41:09 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/nafasyalarasati/status/2112101223688997923
-[1]Nafasya     |08:41:09 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nafasya     |08:41:10 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/nafasyalarasati/status/2112101365409690089
+[1]Nafasya     |08:20:34 | 20-10-2026| daily: OK +10 poin score=1570
+--> [1]Nafasya menjalankan: Auto All Tasks (6 pending)
+[1]Nafasya     |08:20:36 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458572731488632
+[1]Nafasya     |08:20:36 | 20-10-2026| delay 10s...
+[1]Nafasya     |08:20:49 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458541469629097
+[1]Nafasya     |08:20:49 | 20-10-2026| delay 10s...
+[1]Nafasya     |08:21:00 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458717907048587
+[1]Nafasya     |08:21:00 | 20-10-2026| delay 10s...
+[1]Nafasya     |08:21:12 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458486201080304
+[1]Nafasya     |08:21:12 | 20-10-2026| delay 10s...
+[1]Nafasya     |08:21:25 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458553790745528
+[1]Nafasya     |08:21:25 | 20-10-2026| delay 10s...
+[1]Nafasya     |08:21:37 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nafasyalarasati/status/2112458580118106669
+[1]Nafasya     |08:21:37 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nafasya     |08:21:39 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/nafasyalarasati/status/2112458743902494564
 --> [1]Nafasya menjalankan: Watch Anime
-[1]Nafasya     |08:41:11 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nafasya     |08:41:11 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Nafasya     |08:41:14 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nafasya     |08:41:19 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nafasya     |08:41:22 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nafasya     |08:41:27 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nafasya     |08:41:28 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nafasya     |08:41:33 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nafasya     |08:41:35 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nafasya     |08:21:39 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Nafasya     |08:21:39 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Nafasya     |08:21:41 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Nafasya     |08:21:47 | 20-10-2026| watch oshi-captains-hat: 5% (5.11/92.00s)
+[1]Nafasya     |08:21:53 | 20-10-2026| watch oshi-captains-hat: 11% (10.85/92.00s)
+[1]Nafasya     |08:21:59 | 20-10-2026| watch oshi-captains-hat: 17% (16.50/92.00s)
+[1]Nafasya     |08:22:05 | 20-10-2026| watch oshi-captains-hat: 23% (21.78/92.00s)
+[1]Nafasya     |08:22:12 | 20-10-2026| watch oshi-captains-hat: 29% (27.19/92.00s)
+[1]Nafasya     |08:22:18 | 20-10-2026| watch oshi-captains-hat: 35% (32.93/92.00s)
+[1]Nafasya     |08:22:23 | 20-10-2026| watch oshi-captains-hat: 41% (38.29/92.00s)
+[1]Nafasya     |08:22:30 | 20-10-2026| watch oshi-captains-hat: 47% (43.60/92.00s)
+[1]Nafasya     |08:22:36 | 20-10-2026| watch oshi-captains-hat: 53% (49.47/92.00s)
+[1]Nafasya     |08:22:42 | 20-10-2026| watch oshi-captains-hat: 59% (55.14/92.00s)
+[1]Nafasya     |08:22:48 | 20-10-2026| watch oshi-captains-hat: 65% (60.51/92.00s)
+[1]Nafasya     |08:22:54 | 20-10-2026| watch oshi-captains-hat: 71% (65.82/92.00s)
+[1]Nafasya     |08:23:00 | 20-10-2026| watch oshi-captains-hat: 77% (71.15/92.00s)
+[1]Nafasya     |08:23:06 | 20-10-2026| watch oshi-captains-hat: 83% (76.50/92.00s)
+[1]Nafasya     |08:23:12 | 20-10-2026| watch oshi-captains-hat: 88% (81.80/92.00s)
+[1]Nafasya     |08:23:18 | 20-10-2026| watch oshi-captains-hat: 94% (87.36/92.00s)
+[1]Nafasya     |08:23:18 | 20-10-2026| watch oshi-captains-hat: COMPLETED (87.36/92.00s)
+[1]Nafasya     |08:23:23 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Nafasya     |08:23:25 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Nafasya     |08:23:31 | 20-10-2026| watch oshi-rainbow-star: 5% (5.12/86.00s)
+[1]Nafasya     |08:23:37 | 20-10-2026| watch oshi-rainbow-star: 12% (10.87/86.00s)
+[1]Nafasya     |08:23:43 | 20-10-2026| watch oshi-rainbow-star: 19% (16.45/86.00s)
+[1]Nafasya     |08:23:49 | 20-10-2026| watch oshi-rainbow-star: 25% (21.79/86.00s)
+[1]Nafasya     |08:23:55 | 20-10-2026| watch oshi-rainbow-star: 31% (27.08/86.00s)
+[1]Nafasya     |08:24:01 | 20-10-2026| watch oshi-rainbow-star: 37% (32.40/86.00s)
+[1]Nafasya     |08:24:07 | 20-10-2026| watch oshi-rainbow-star: 43% (37.68/86.00s)
+[1]Nafasya     |08:24:13 | 20-10-2026| watch oshi-rainbow-star: 50% (43.23/86.00s)
+[1]Nafasya     |08:24:19 | 20-10-2026| watch oshi-rainbow-star: 56% (48.90/86.00s)
+[1]Nafasya     |08:24:25 | 20-10-2026| watch oshi-rainbow-star: 63% (54.21/86.00s)
+[1]Nafasya     |08:24:31 | 20-10-2026| watch oshi-rainbow-star: 69% (59.50/86.00s)
+[1]Nafasya     |08:24:37 | 20-10-2026| watch oshi-rainbow-star: 75% (64.97/86.00s)
+[1]Nafasya     |08:24:43 | 20-10-2026| watch oshi-rainbow-star: 81% (70.32/86.00s)
+[1]Nafasya     |08:24:49 | 20-10-2026| watch oshi-rainbow-star: 88% (75.73/86.00s)
+[1]Nafasya     |08:24:55 | 20-10-2026| watch oshi-rainbow-star: 94% (81.08/86.00s)
+[1]Nafasya     |08:24:55 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (81.08/86.00s)
+[1]Nafasya     |08:25:00 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Nafasya     |08:25:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Nafasya     |08:25:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.07/87.00s)
+[1]Nafasya     |08:25:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (11.20/87.00s)
+[1]Nafasya     |08:25:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (11.20/87.00s)
+[1]Nafasya     |08:25:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (16.65/87.00s)
+[1]Nafasya     |08:25:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.94/87.00s)
+[1]Nafasya     |08:25:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.58/87.00s)
+[1]Nafasya     |08:25:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 37% (32.91/87.00s)
+[1]Nafasya     |08:26:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 43% (38.22/87.00s)
+[1]Nafasya     |08:26:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (43.59/87.00s)
+[1]Nafasya     |08:26:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 56% (48.91/87.00s)
+[1]Nafasya     |08:26:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.20/87.00s)
+[1]Nafasya     |08:26:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.56/87.00s)
+[1]Nafasya     |08:26:35 | 20-10-2026| watch oshi-rainbow-lighthouse: 74% (64.94/87.00s)
+[1]Nafasya     |08:26:41 | 20-10-2026| watch oshi-rainbow-lighthouse: 81% (70.83/87.00s)
+[1]Nafasya     |08:27:18 | 20-10-2026| watch oshi-rainbow-lighthouse: posisi mentok tanpa completed, stop
+[1]Nafasya     |08:27:23 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Nafasya     |08:27:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Nafasya     |08:27:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.75/181.00s)
+[1]Nafasya     |08:27:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.74/181.00s)
+[1]Nafasya     |08:27:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.36/181.00s)
+[1]Nafasya     |08:27:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.70/181.00s)
+[1]Nafasya     |08:27:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.18/181.00s)
+[1]Nafasya     |08:28:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.51/181.00s)
+[1]Nafasya     |08:28:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.89/181.00s)
+[1]Nafasya     |08:28:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.21/181.00s)
+[1]Nafasya     |08:28:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.58/181.00s)
+[1]Nafasya     |08:28:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (54.86/181.00s)
+[1]Nafasya     |08:28:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.51/181.00s)
+[1]Nafasya     |08:28:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.16/181.00s)
+[1]Nafasya     |08:28:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.49/181.00s)
+[1]Nafasya     |08:28:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.77/181.00s)
+[1]Nafasya     |08:28:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.13/181.00s)
+[1]Nafasya     |08:29:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 48% (88.32/181.00s)
+[1]Nafasya     |08:29:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.65/181.00s)
+[1]Nafasya     |08:29:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 54% (98.97/181.00s)
+[1]Nafasya     |08:29:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.28/181.00s)
+[1]Nafasya     |08:29:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.98/181.00s)
+[1]Nafasya     |08:29:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.40/181.00s)
+[1]Nafasya     |08:29:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.73/181.00s)
+[1]Nafasya     |08:29:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.40/181.00s)
+[1]Nafasya     |08:29:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 72% (131.73/181.00s)
+[1]Nafasya     |08:29:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 75% (137.37/181.00s)
+[1]Nafasya     |08:30:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (142.89/181.00s)
+[1]Nafasya     |08:30:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (148.78/181.00s)
+[1]Nafasya     |08:30:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (154.18/181.00s)
+[1]Nafasya     |08:30:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
 --> [1]Nafasya menjalankan: Read Article
-[1]Nafasya     |08:41:37 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nafasya     |08:41:38 | 19-10-2026| mint eligibility: {"userId":"1748155289524903936","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nafasyalarasati","status":"submitted","revision":"9f9b316d-7c53-47a9-b088-bf291a
-[1]Nafasya     |08:41:38 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Nafasya     |08:30:25 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Quiz Anime
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Nafasya     |08:41:38 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Nafasya     |08:30:25 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nafasya     |08:41:41 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nafasya     |08:41:41 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nafasya     |08:41:41 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nafasya     |08:41:41 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nafasya     |08:30:25 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nafasya     |08:30:25 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Claim Missions
-[1]Nafasya     |08:41:42 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nafasya     |08:41:42 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nafasya     |08:41:42 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nafasya     |08:30:26 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Check Eligibility
 
 --- eligibility [1]Nafasya ---
-  @nafasyalarasati | score=1450 rank=4718
-  tasks    [##################--] 74/84
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @nafasyalarasati | score=1560 rank=4469
+  tasks    [##################--] 73/79
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Nafasya menjalankan: Read Manga
-[1]Nafasya     |08:41:46 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Nafasya     |08:30:27 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Get Gift
-[1]Nafasya     |08:41:47 | 19-10-2026| gift: 0/4 belum diterima
+[1]Nafasya     |08:30:27 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Setup Profile
-[1]Nafasya     |08:41:47 | 19-10-2026| profile: bio="https://x.com/nafasyalarasati" fav=oshi rewardAt=1791706635
-[1]Nafasya     |08:41:47 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Nafasya     |08:30:27 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nafasya menjalankan: Bind Wallet
-[1]Nafasya     |08:41:49 | 19-10-2026| wallet: sudah terikat B9bws1vvTN... (solana)
+[1]Nafasya     |08:30:27 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Nafasya: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nafasya: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
