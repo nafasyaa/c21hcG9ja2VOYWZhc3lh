@@ -12,49 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nafasya =====
-[1]Nafasya     |11:11:11 | 29-10-2026| login OK @nafasyalarasati | score=2330 rank=3437
-[1]Nafasya     |11:11:11 | 29-10-2026| serverTime=2026-10-29T11:11:11.000Z local=2026-10-29T11:11:11.793Z
+[1]Nafasya     |11:05:40 | 30-10-2026| login OK @nafasyalarasati | score=2420 rank=3297
+[1]Nafasya     |11:05:40 | 30-10-2026| serverTime=2026-10-30T11:05:40.000Z local=2026-10-30T11:05:40.113Z
 --> [1]Nafasya menjalankan: Claim Daily
-[1]Nafasya     |11:11:13 | 29-10-2026| daily: OK +10 poin score=2340
---> [1]Nafasya menjalankan: Auto All Tasks (8 pending)
-[1]Nafasya     |11:11:15 | 29-10-2026| [1/8] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763015277978239
-[1]Nafasya     |11:11:15 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:11:28 | 29-10-2026| [2/8] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763116340527962
-[1]Nafasya     |11:11:28 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:11:41 | 29-10-2026| [3/8] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763124761442125
-[1]Nafasya     |11:11:41 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:11:53 | 29-10-2026| [4/8] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763183967608390
-[1]Nafasya     |11:11:53 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:12:06 | 29-10-2026| [5/8] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763050998217283
-[1]Nafasya     |11:12:06 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:12:19 | 29-10-2026| [6/8] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763245788795569
-[1]Nafasya     |11:12:19 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:12:31 | 29-10-2026| [7/8] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nafasyalarasati/status/2115763106772170242
-[1]Nafasya     |11:12:31 | 29-10-2026| delay 10s...
-[1]Nafasya     |11:12:43 | 29-10-2026| [8/8] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Nafasya     |11:12:43 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nafasya     |11:12:45 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/nafasyalarasati/status/2115763177068171026
+[1]Nafasya     |11:05:41 | 30-10-2026| daily: OK +10 poin score=2430
+--> [1]Nafasya menjalankan: Auto All Tasks (6 pending)
+[1]Nafasya     |11:05:43 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nafasyalarasati/status/2116123762314887801
+[1]Nafasya     |11:05:43 | 30-10-2026| delay 10s...
+[1]Nafasya     |11:05:55 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nafasyalarasati/status/2116123857677447601
+[1]Nafasya     |11:05:55 | 30-10-2026| delay 10s...
+[1]Nafasya     |11:06:07 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nafasyalarasati/status/2116124172781179601
+[1]Nafasya     |11:06:07 | 30-10-2026| delay 10s...
+[1]Nafasya     |11:06:19 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nafasyalarasati/status/2116124153708372897
+[1]Nafasya     |11:06:19 | 30-10-2026| delay 10s...
+[1]Nafasya     |11:06:31 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nafasyalarasati/status/2116124090583528864
+[1]Nafasya     |11:06:31 | 30-10-2026| delay 10s...
+[1]Nafasya     |11:06:43 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Nafasya     |11:06:43 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nafasya     |11:06:45 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/nafasyalarasati/status/2116124043008501237
 --> [1]Nafasya menjalankan: Watch Anime
-[1]Nafasya     |11:12:46 | 29-10-2026| watch: semua video sudah completed
+[1]Nafasya     |11:06:46 | 30-10-2026| watch: semua video sudah completed
 --> [1]Nafasya menjalankan: Read Article
-[1]Nafasya     |11:12:48 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nafasya     |11:12:48 | 29-10-2026| mint eligibility: {"userId":"1748155289524903936","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nafasyalarasati","status":"submitted","revision":"9f9b316d-7c53-47a9-b088-bf291a
-[1]Nafasya     |11:12:48 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Nafasya     |11:06:47 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nafasya     |11:06:48 | 30-10-2026| mint eligibility: {"userId":"1748155289524903936","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nafasyalarasati","status":"submitted","revision":"9f9b316d-7c53-47a9-b088-bf291a
+[1]Nafasya     |11:06:48 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Nafasya menjalankan: Quiz Anime
 --> [1]Nafasya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nafasya     |11:12:51 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nafasya     |11:12:52 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nafasya     |11:12:52 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nafasya     |11:12:52 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nafasya     |11:06:50 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nafasya     |11:06:50 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nafasya     |11:06:50 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nafasya     |11:06:50 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nafasya menjalankan: Claim Missions
-[1]Nafasya     |11:12:52 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nafasya     |11:12:52 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nafasya     |11:12:52 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nafasya     |11:06:51 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nafasya     |11:06:51 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nafasya     |11:06:51 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nafasya menjalankan: Check Eligibility
 
 --- eligibility [1]Nafasya ---
-  @nafasyalarasati | score=2330 rank=3437
-  tasks    [#######-------------] 4/12
+  @nafasyalarasati | score=2420 rank=3297
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nafasya menjalankan: Read Manga
-[1]Nafasya     |11:12:56 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Nafasya     |11:06:55 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nafasya menjalankan: Get Gift
-[1]Nafasya     |11:12:57 | 29-10-2026| gift: 0/5 belum diterima
+[1]Nafasya     |11:06:55 | 30-10-2026| gift: 1/6 belum diterima
+[1]Nafasya     |11:06:56 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Nafasya menjalankan: Setup Profile
-[1]Nafasya     |11:12:57 | 29-10-2026| profile: bio="https://x.com/nafasyalarasati" fav=oshi rewardAt=1791706635
-[1]Nafasya     |11:12:57 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Nafasya     |11:06:59 | 30-10-2026| profile: bio="https://x.com/nafasyalarasati" fav=oshi rewardAt=1791706635
+[1]Nafasya     |11:06:59 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nafasya menjalankan: Bind Wallet
-[1]Nafasya     |11:12:58 | 29-10-2026| wallet: sudah terikat B9bws1vvTN... (solana)
+[1]Nafasya     |11:06:59 | 30-10-2026| wallet: sudah terikat B9bws1vvTN... (solana)
 
 == RINGKASAN ==
-- Nafasya: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Nafasya: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
